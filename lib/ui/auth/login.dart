@@ -61,7 +61,7 @@ class _LoginScreenState extends State<login> {
         },
         child: Scaffold(
             appBar: AppBar(
-              title: Text('Login'),
+              title: Text('Hacoline Surveillance v1.0'),
               backgroundColor: Colors.deepPurpleAccent,
               automaticallyImplyLeading: false,
             ),
